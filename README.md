@@ -1,3 +1,3 @@
 # DSA-questions
-It has DSA questions related to different data structure.
-Mainly written in c++.
+This repo has DSA questions related to different data structure.
+The programming language used is c++.
